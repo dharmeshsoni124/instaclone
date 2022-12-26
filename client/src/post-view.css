@@ -1,0 +1,64 @@
+#logo{
+    display: flex;
+    height: 50px;
+   
+    
+}
+#camera{
+    display: inline-block;
+    height: 40px;
+    margin-left:90% ;
+    margin-top: -50px;
+    
+    
+   
+}
+.container{
+    width: 400px;
+    height:auto;
+    display: block;
+    margin: auto;
+   
+}
+.name{
+    margin-left: 10px;
+}
+.post{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 20px 0px;
+    border-radius: 5px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.user-description{
+    margin: 10px 5px;
+}
+.date{
+    margin-left: 300px;
+}
+
+
+.location{
+    color: grey;
+   margin-left: 100px;
+}
+
+.heart{
+   
+    float: left;
+    margin-left:  -280px;
+    margin-top:20px;
+   
+    
+ }
+ .dots{
+    float: right;
+ }
+
+ .rocket{
+  
+     margin: 0px 20px;
+     padding: 0px 20px ;
+ }

@@ -1,0 +1,42 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 40vh;
+}#heading{
+    display: flex;
+    justify-content: center;
+    font-size:xxx-large;
+}
+.form-table{
+    padding: 20px;
+    border: 2px solid black;
+}
+.author-location{
+    margin-top: 15px;
+}
+.chooseFile{
+    width: 300px;
+    margin-bottom: 15px;
+}.bttn{
+    width: 100px;
+}
+.author{
+    float: left;
+    margin-bottom: 15px;
+}
+.location{
+    float: right;
+    margin-bottom: 15px;
+}
+.des{
+    width: 400px;
+    margin-bottom: 15px;
+}
+.post-button{
+    display: flex;
+    justify-content: center;}
+#post-button{
+    width: 80px;
+}
